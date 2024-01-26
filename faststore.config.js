@@ -19,7 +19,7 @@ module.exports = {
       code: "USD",
       symbol: "$",
     },
-    locale: "en-US",
+    locale: "pt-BR",
     channel: '{"salesChannel":"1","regionId":""}',
     country: "USA",
     deliveryMode: null,
